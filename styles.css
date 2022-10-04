@@ -7,6 +7,14 @@ body{
     font-size: x-large;
 }
 
+h2{
+    font-weight: 800;
+}
+
+h3{
+    font-weight: 800;
+}
+
 header{
     background-color: white;
     margin: 2% auto 2% auto;
