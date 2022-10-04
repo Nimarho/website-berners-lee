@@ -4,6 +4,7 @@ body{
     text-align: center;
     color: #7E7E7E;
     word-spacing: 0.75rem;
+    font-size: x-large;
 }
 
 header{
@@ -28,6 +29,7 @@ header img{
 
 header a{
     font-size: x-large;
+    font-weight: 700;
     background-color: #DD5555;
     text-decoration: none;
     color: white;
@@ -95,4 +97,28 @@ header p{
     box-shadow: 5px 5px 5px gray;
     border-radius: 1%;
     text-align: center;
+}
+
+.movies h2{
+    margin-bottom: 10%;
+}
+
+.movies img{
+    /*float: left;*/
+    
+}
+
+.movies figure{
+    display: flex;
+    margin-bottom: 5%;
+}
+
+.movies figcaption{
+    /*display: inline;*/
+    /*float: right;*/
+}
+
+.movies p{
+    text-align: justify;
+    margin-left: 5%;
 }
