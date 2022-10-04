@@ -103,19 +103,9 @@ header p{
     margin-bottom: 10%;
 }
 
-.movies img{
-    /*float: left;*/
-    
-}
-
 .movies figure{
     display: flex;
     margin-bottom: 5%;
-}
-
-.movies figcaption{
-    /*display: inline;*/
-    /*float: right;*/
 }
 
 .movies p{
